@@ -16,9 +16,9 @@ columns = ['A','B','C', 'D']
 timepoints = ['0h', '24h', '48h', '72h', '96h']
 for plate_name in plates:
     plate = Plate(plate_name, len(rows), len(columns))
-    for row in rows:
-        for column in columns:
-            well = plate.add_well(row, column)
+    for row_index, row in enumerate(rows):
+        for column_index, column in enumerate(columns):
+            well = plate.add_well(row_index, column_index)
             test = "{}_{}{}_0h.tiff".format(plate_name, column, row)
             if test in filenames:
                 basename = "{}{}".format(column, row)
