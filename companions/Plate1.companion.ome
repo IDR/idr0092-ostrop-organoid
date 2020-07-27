@@ -1,2 +1,581 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<OME Creator="ome_model/experimental.py" UUID="urn:uuid:6e2b0c05-5660-4142-8467-86784841de6f" xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd"><Plate ID="Plate:0" Name="Plate1"><Well Column="1" ID="Well:0" Row="1"><WellSample ID="WellSample:0" Index="0"><ImageRef ID="Image:0" /></WellSample></Well><Well Column="2" ID="Well:1" Row="1"><WellSample ID="WellSample:1" Index="0"><ImageRef ID="Image:1" /></WellSample></Well><Well Column="3" ID="Well:2" Row="1"><WellSample ID="WellSample:2" Index="0"><ImageRef ID="Image:2" /></WellSample></Well><Well Column="4" ID="Well:3" Row="1"><WellSample ID="WellSample:3" Index="0"><ImageRef ID="Image:3" /></WellSample></Well><Well Column="1" ID="Well:4" Row="2"><WellSample ID="WellSample:4" Index="0"><ImageRef ID="Image:4" /></WellSample></Well><Well Column="2" ID="Well:5" Row="2"><WellSample ID="WellSample:5" Index="0"><ImageRef ID="Image:5" /></WellSample></Well><Well Column="3" ID="Well:6" Row="2"><WellSample ID="WellSample:6" Index="0"><ImageRef ID="Image:6" /></WellSample></Well><Well Column="4" ID="Well:7" Row="2"><WellSample ID="WellSample:7" Index="0"><ImageRef ID="Image:7" /></WellSample></Well><Well Column="1" ID="Well:8" Row="3"><WellSample ID="WellSample:8" Index="0"><ImageRef ID="Image:8" /></WellSample></Well><Well Column="2" ID="Well:9" Row="3"><WellSample ID="WellSample:9" Index="0"><ImageRef ID="Image:9" /></WellSample></Well><Well Column="3" ID="Well:10" Row="3"><WellSample ID="WellSample:10" Index="0"><ImageRef ID="Image:10" /></WellSample></Well><Well Column="4" ID="Well:11" Row="3"><WellSample ID="WellSample:11" Index="0"><ImageRef ID="Image:11" /></WellSample></Well><Well Column="1" ID="Well:12" Row="4"><WellSample ID="WellSample:12" Index="0"><ImageRef ID="Image:12" /></WellSample></Well><Well Column="2" ID="Well:13" Row="4"><WellSample ID="WellSample:13" Index="0"><ImageRef ID="Image:13" /></WellSample></Well><Well Column="3" ID="Well:14" Row="4"><WellSample ID="WellSample:14" Index="0"><ImageRef ID="Image:14" /></WellSample></Well><Well Column="4" ID="Well:15" Row="4"><WellSample ID="WellSample:15" Index="0"><ImageRef ID="Image:15" /></WellSample></Well><Well Column="1" ID="Well:16" Row="5"><WellSample ID="WellSample:16" Index="0"><ImageRef ID="Image:16" /></WellSample></Well><Well Column="2" ID="Well:17" Row="5"><WellSample ID="WellSample:17" Index="0"><ImageRef ID="Image:17" /></WellSample></Well><Well Column="3" ID="Well:18" Row="5"><WellSample ID="WellSample:18" Index="0"><ImageRef ID="Image:18" /></WellSample></Well><Well Column="4" ID="Well:19" Row="5"><WellSample ID="WellSample:19" Index="0"><ImageRef ID="Image:19" /></WellSample></Well><Well Column="1" ID="Well:20" Row="6"><WellSample ID="WellSample:20" Index="0"><ImageRef ID="Image:20" /></WellSample></Well><Well Column="2" ID="Well:21" Row="6"><WellSample ID="WellSample:21" Index="0"><ImageRef ID="Image:21" /></WellSample></Well><Well Column="3" ID="Well:22" Row="6"><WellSample ID="WellSample:22" Index="0"><ImageRef ID="Image:22" /></WellSample></Well><Well Column="4" ID="Well:23" Row="6"><WellSample ID="WellSample:23" Index="0"><ImageRef ID="Image:23" /></WellSample></Well></Plate><Image ID="Image:0" Name="A01"><Pixels DimensionOrder="XYZTC" ID="Pixels:0:0" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_0h.tiff">urn:uuid:0f9a8f53-5ffd-44bf-acc4-338ec14cf57d</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_24h.tiff">urn:uuid:9a1af848-48e4-4c40-a24b-7a7d4e1eaa04</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_48h.tiff">urn:uuid:ff8e8d1a-1894-4a6b-aabf-b974089dc590</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_72h.tiff">urn:uuid:ee453dc3-6692-4b91-bcc0-b6bdaf2611f5</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_96h.tiff">urn:uuid:b36e793d-f48d-4f50-99bf-9eb9cc07e356</UUID></TiffData></Pixels></Image><Image ID="Image:1" Name="B01"><Pixels DimensionOrder="XYZTC" ID="Pixels:1:1" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_0h.tiff">urn:uuid:66b86ef3-5ccc-41c6-803d-f1650267333f</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_24h.tiff">urn:uuid:d6467071-afc3-4bef-ba9a-c1232154eecd</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_48h.tiff">urn:uuid:52d1a46b-2b4f-4d7a-95d8-945c6438adcd</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_72h.tiff">urn:uuid:d9164491-4edd-43cf-bc88-68c179352696</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_96h.tiff">urn:uuid:a34cd6b7-a6c5-46a9-9182-9139dd6a7dca</UUID></TiffData></Pixels></Image><Image ID="Image:2" Name="C01"><Pixels DimensionOrder="XYZTC" ID="Pixels:2:2" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_0h.tiff">urn:uuid:1d494139-2715-42d9-91b5-ef4e554749ea</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_24h.tiff">urn:uuid:353683a3-d475-4e75-8406-af7182e2c515</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_48h.tiff">urn:uuid:ee2e6691-b32b-4de2-bc11-c35443531596</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_72h.tiff">urn:uuid:4943bf6d-978b-407b-8bcd-d538e9cd2e39</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_96h.tiff">urn:uuid:43ddcdc9-a33c-4afc-b5c3-01b3b62bb16b</UUID></TiffData></Pixels></Image><Image ID="Image:3" Name="D01"><Pixels DimensionOrder="XYZTC" ID="Pixels:3:3" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_0h.tiff">urn:uuid:492e7da5-b91e-404e-9ce7-933889ab7e73</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_24h.tiff">urn:uuid:b9361462-d8cf-44b2-99e9-18ae39111805</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_48h.tiff">urn:uuid:d2255155-095b-4ec2-b177-2bcd68bc5bba</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_72h.tiff">urn:uuid:c44fbeaf-2630-476b-a3b8-dd617c48f6da</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_96h.tiff">urn:uuid:684dcc67-27f2-474c-b7ef-7f1b6acb24f0</UUID></TiffData></Pixels></Image><Image ID="Image:4" Name="A02"><Pixels DimensionOrder="XYZTC" ID="Pixels:4:4" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_0h.tiff">urn:uuid:2fd6a7e8-cb51-4142-b014-26ee34deefec</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_24h.tiff">urn:uuid:03046b34-6c0c-4ddb-97d6-2ff6783b052e</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_48h.tiff">urn:uuid:345d4268-d1aa-4edd-addf-c53c1cf603f7</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_72h.tiff">urn:uuid:128d56e1-6a99-4803-814a-1c8c46450c47</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_96h.tiff">urn:uuid:1ab3df02-080e-49e1-9004-ec110a48bf30</UUID></TiffData></Pixels></Image><Image ID="Image:5" Name="B02"><Pixels DimensionOrder="XYZTC" ID="Pixels:5:5" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_0h.tiff">urn:uuid:4b30140d-34fc-4fc7-b103-0be79d59675d</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_24h.tiff">urn:uuid:30ac9de6-0ebc-489a-a3c1-c9f3e7c9b92e</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_48h.tiff">urn:uuid:ec7d0fcc-8fd5-44c1-bf22-0598a3f9bad0</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_72h.tiff">urn:uuid:144d137b-30ae-43f8-95dd-007eecd5dceb</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_96h.tiff">urn:uuid:759de9dc-93db-4a5a-9b0a-c1262aa0a66e</UUID></TiffData></Pixels></Image><Image ID="Image:6" Name="C02"><Pixels DimensionOrder="XYZTC" ID="Pixels:6:6" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_0h.tiff">urn:uuid:c7b98a96-4393-4c9d-b223-2bc4c6db511b</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_24h.tiff">urn:uuid:6aefb36b-9b28-4353-9960-d1429745dd4b</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_48h.tiff">urn:uuid:8f8692b2-471d-4953-8cab-770f70c5ef27</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_72h.tiff">urn:uuid:5e5fd8cb-c5a6-40ed-9e25-c2e97c8eeec2</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_96h.tiff">urn:uuid:a843ec7a-44fb-4f16-a97e-3ab636027b64</UUID></TiffData></Pixels></Image><Image ID="Image:7" Name="D02"><Pixels DimensionOrder="XYZTC" ID="Pixels:7:7" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_0h.tiff">urn:uuid:d4cbd874-7acb-4163-91f6-d8a5fce341e3</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_24h.tiff">urn:uuid:fd20b256-c1fc-4d3d-b0c0-43e38d9a86ab</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_48h.tiff">urn:uuid:48cd9b46-491e-495c-9a44-05c88192643f</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_72h.tiff">urn:uuid:8312975c-64d1-4918-b57f-741cf2710408</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_96h.tiff">urn:uuid:5c3a6fd7-4a61-4b75-9f98-95fb8c6f6221</UUID></TiffData></Pixels></Image><Image ID="Image:8" Name="A03"><Pixels DimensionOrder="XYZTC" ID="Pixels:8:8" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_0h.tiff">urn:uuid:90da6434-d0ad-45fb-bb18-26981442e541</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_24h.tiff">urn:uuid:1fddce44-c9bd-4156-8b0f-a817c2ad31af</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_48h.tiff">urn:uuid:bcb026d7-1937-4644-8a90-922f257ab6e5</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_72h.tiff">urn:uuid:bf0c4480-b44a-4407-a361-51090c2b8a86</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_96h.tiff">urn:uuid:b81e9af7-80e3-40eb-9ad8-b1d7fa14e9a5</UUID></TiffData></Pixels></Image><Image ID="Image:9" Name="B03"><Pixels DimensionOrder="XYZTC" ID="Pixels:9:9" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_0h.tiff">urn:uuid:ecf7658a-25bc-4b2c-a026-db0beeda2f2f</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_24h.tiff">urn:uuid:950cab00-e33f-4d6b-b8cd-998ffb9eca82</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_48h.tiff">urn:uuid:4a842600-f130-414f-a611-6b37897f4356</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_72h.tiff">urn:uuid:83106189-5508-4a85-8ac6-b7918cbc35e1</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_96h.tiff">urn:uuid:0177c2b0-4a87-4d29-8524-8507b9a5c38a</UUID></TiffData></Pixels></Image><Image ID="Image:10" Name="C03"><Pixels DimensionOrder="XYZTC" ID="Pixels:10:10" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_0h.tiff">urn:uuid:2d9cebaf-d0ca-4f88-bc47-f893d80b9911</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_24h.tiff">urn:uuid:22435bef-6e53-4e8b-b6c0-c8ac4129be18</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_48h.tiff">urn:uuid:927516ce-ba6a-4843-9f9b-e06bc29b01c7</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_72h.tiff">urn:uuid:7741f420-3ce4-43f0-a267-05dadfea77b0</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_96h.tiff">urn:uuid:0e2cd6e1-dc42-42ec-8e78-29164b8a22b4</UUID></TiffData></Pixels></Image><Image ID="Image:11" Name="D03"><Pixels DimensionOrder="XYZTC" ID="Pixels:11:11" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_0h.tiff">urn:uuid:c28e9600-ae2d-46e9-a0b6-768db4378f24</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_24h.tiff">urn:uuid:3fee7706-5e39-4d42-924d-818cb6aba9fa</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_48h.tiff">urn:uuid:c2230873-4cde-4c50-9b9c-dad9579bbc05</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_72h.tiff">urn:uuid:6e85b387-f126-49c6-bbb9-a1baa4826b92</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_96h.tiff">urn:uuid:78e0730f-0f4a-4b4d-9d7c-41f8dade1443</UUID></TiffData></Pixels></Image><Image ID="Image:12" Name="A04"><Pixels DimensionOrder="XYZTC" ID="Pixels:12:12" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_0h.tiff">urn:uuid:413766ad-5bb8-4b03-a565-426d165cc982</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_24h.tiff">urn:uuid:e8d65572-28b5-4bb6-9c6a-f003ae641bf9</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_48h.tiff">urn:uuid:5229c973-2784-4f7a-9401-325c6bf1c916</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_72h.tiff">urn:uuid:218a103d-8c1f-40ee-ae9e-7c796bc2f780</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_96h.tiff">urn:uuid:9b8bc277-14a7-4eaa-9591-c493f6f2a3cd</UUID></TiffData></Pixels></Image><Image ID="Image:13" Name="B04"><Pixels DimensionOrder="XYZTC" ID="Pixels:13:13" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_0h.tiff">urn:uuid:13accf01-afb4-4cfd-a9d1-f6dcaa7ed3ea</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_24h.tiff">urn:uuid:e28f2ab3-27ff-4961-b305-961903b616e9</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_48h.tiff">urn:uuid:21c8213a-b2f5-4fdf-9108-ba50713f6bbd</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_72h.tiff">urn:uuid:0bb18b75-50a6-4c26-ace1-9f36840efce6</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_96h.tiff">urn:uuid:a4901e8a-6589-4563-985f-3e642cbc7077</UUID></TiffData></Pixels></Image><Image ID="Image:14" Name="C04"><Pixels DimensionOrder="XYZTC" ID="Pixels:14:14" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_0h.tiff">urn:uuid:d03c3109-9af7-40a4-86ee-53f3c4420572</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_24h.tiff">urn:uuid:b42efd76-64f5-42c0-9e9e-184ff6a0d590</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_48h.tiff">urn:uuid:5555e575-c47c-4a5c-9276-0d962f649a33</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_72h.tiff">urn:uuid:30e98624-f2ca-46fc-9e07-b3ee6271e947</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_96h.tiff">urn:uuid:e9675b3c-deaf-49d0-aff1-b2db5724ae89</UUID></TiffData></Pixels></Image><Image ID="Image:15" Name="D04"><Pixels DimensionOrder="XYZTC" ID="Pixels:15:15" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_0h.tiff">urn:uuid:efad2f93-6033-4800-af91-9309aec55af4</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_24h.tiff">urn:uuid:afb1d74a-05c2-4de9-836b-5f82a846e585</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_48h.tiff">urn:uuid:a3982359-c50a-4a5f-a630-2b5cf7949f16</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_72h.tiff">urn:uuid:b28a879c-6b2c-4cf5-b3c0-40091286bb4e</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_96h.tiff">urn:uuid:78f4dacb-7690-499e-be99-f83a74649b03</UUID></TiffData></Pixels></Image><Image ID="Image:16" Name="A05"><Pixels DimensionOrder="XYZTC" ID="Pixels:16:16" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_0h.tiff">urn:uuid:ee478860-2376-4dce-9e32-183e82509b39</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_24h.tiff">urn:uuid:0d8a40d6-366e-46bc-baff-2fe6f83a940f</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_48h.tiff">urn:uuid:adfd88e2-6adc-4e0d-9101-5dae0fc794f5</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_72h.tiff">urn:uuid:dce75c58-eb2a-4c6c-bde7-a7e23989b3a3</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_96h.tiff">urn:uuid:d8262c1c-0a91-43af-a0b8-29b70199344f</UUID></TiffData></Pixels></Image><Image ID="Image:17" Name="B05"><Pixels DimensionOrder="XYZTC" ID="Pixels:17:17" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_0h.tiff">urn:uuid:cd25b1a5-b897-4801-85bc-2f8eda0a78d2</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_24h.tiff">urn:uuid:4aca053b-0496-4d96-ae1b-fb22bd917678</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_48h.tiff">urn:uuid:017cf3d8-40ed-4443-b3b5-54eefef27c67</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_72h.tiff">urn:uuid:aa9adaab-0c58-47e4-98c7-03256d822a04</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_96h.tiff">urn:uuid:f225ed4d-6886-4ab8-81c6-ec06906cd2de</UUID></TiffData></Pixels></Image><Image ID="Image:18" Name="C05"><Pixels DimensionOrder="XYZTC" ID="Pixels:18:18" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_0h.tiff">urn:uuid:7416d080-16b5-49a4-8994-3925dbef79a3</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_24h.tiff">urn:uuid:7ab58bfd-87c8-4991-9438-89532f5959da</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_48h.tiff">urn:uuid:3f19a156-0ba4-4580-9e33-21ecfdb04663</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_72h.tiff">urn:uuid:4300dff8-26db-437b-884d-2af885c057b5</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_96h.tiff">urn:uuid:c247bddd-1854-47fc-8d01-8cc75935cc75</UUID></TiffData></Pixels></Image><Image ID="Image:19" Name="D05"><Pixels DimensionOrder="XYZTC" ID="Pixels:19:19" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_0h.tiff">urn:uuid:7b80e6f7-a95f-4e82-a7c5-b15dfd526ffc</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_24h.tiff">urn:uuid:046165c5-b70d-4398-9d5b-f81b8dd3069e</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_48h.tiff">urn:uuid:87203509-dc39-4db1-9bf2-29ec8432b5bc</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_72h.tiff">urn:uuid:eddc041b-3fef-41fb-b515-7d6133bf4766</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_96h.tiff">urn:uuid:84c83fba-6a8e-4e73-a628-e1f59b4172cb</UUID></TiffData></Pixels></Image><Image ID="Image:20" Name="A06"><Pixels DimensionOrder="XYZTC" ID="Pixels:20:20" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_0h.tiff">urn:uuid:35078020-acaa-4300-84a2-7079f538b80b</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_24h.tiff">urn:uuid:2f8c0b4e-d447-4135-a5d5-1ac33ce828cd</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_48h.tiff">urn:uuid:2f563345-4d65-4150-a25e-7ca32d3872af</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_72h.tiff">urn:uuid:25831702-055f-48ca-a521-9854ee066f67</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_96h.tiff">urn:uuid:bbe371b3-7ef8-4559-9cb2-4830722d4cb6</UUID></TiffData></Pixels></Image><Image ID="Image:21" Name="B06"><Pixels DimensionOrder="XYZTC" ID="Pixels:21:21" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_0h.tiff">urn:uuid:cb569109-03a1-4f97-b30e-93cff66d70a9</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_24h.tiff">urn:uuid:9425d951-4ec8-4e90-8dda-ce897ee7242a</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_48h.tiff">urn:uuid:dab0b9e0-587b-470a-aae2-f8db0e6b593f</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_72h.tiff">urn:uuid:8c31e512-7620-4e05-b76e-04a27481c8c4</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_96h.tiff">urn:uuid:8eff07af-2d55-4ea8-9041-1ee405796d98</UUID></TiffData></Pixels></Image><Image ID="Image:22" Name="C06"><Pixels DimensionOrder="XYZTC" ID="Pixels:22:22" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_0h.tiff">urn:uuid:6ba3394f-18e9-45a0-a3d5-7a6123e9d9d1</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_24h.tiff">urn:uuid:f7c269db-fcae-4b10-b6b7-9492160e9abb</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_48h.tiff">urn:uuid:acbe3a08-e2a2-45e9-8604-433b078e9569</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_72h.tiff">urn:uuid:05e83ba8-57fa-428b-8ec5-0a8b06c4f743</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_96h.tiff">urn:uuid:550d5fd1-4ae7-405f-809d-4e0b2775f2d6</UUID></TiffData></Pixels></Image><Image ID="Image:23" Name="D06"><Pixels DimensionOrder="XYZTC" ID="Pixels:23:23" SizeC="0" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16"><TiffData FirstC="0" FirstT="0" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_0h.tiff">urn:uuid:48d55053-0c8b-4e82-8d28-e4dbeab8479e</UUID></TiffData><TiffData FirstC="0" FirstT="1" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_24h.tiff">urn:uuid:e5f928a6-4a5a-43ed-a1e9-3b44495b2da6</UUID></TiffData><TiffData FirstC="0" FirstT="2" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_48h.tiff">urn:uuid:0de60e88-6512-4cf4-9214-a82fcd5eabb0</UUID></TiffData><TiffData FirstC="0" FirstT="3" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_72h.tiff">urn:uuid:6fa42af5-a4e3-48e4-9e65-1e2a56ce15d7</UUID></TiffData><TiffData FirstC="0" FirstT="4" FirstZ="0"><UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_96h.tiff">urn:uuid:ad003461-7f0a-48f8-8111-a703947f1d06</UUID></TiffData></Pixels></Image></OME>
+<OME Creator="ome_model/experimental.py" UUID="urn:uuid:b11034f5-bec4-4b03-8767-656b838ab04b" xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+	<Plate ID="Plate:0" Name="Plate1">
+		<Well Column="0" ID="Well:0" Row="0">
+			<WellSample ID="WellSample:0" Index="0">
+				<ImageRef ID="Image:0"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:1" Row="0">
+			<WellSample ID="WellSample:1" Index="0">
+				<ImageRef ID="Image:1"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:2" Row="0">
+			<WellSample ID="WellSample:2" Index="0">
+				<ImageRef ID="Image:2"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:3" Row="0">
+			<WellSample ID="WellSample:3" Index="0">
+				<ImageRef ID="Image:3"/>
+			</WellSample>
+		</Well>
+		<Well Column="0" ID="Well:4" Row="1">
+			<WellSample ID="WellSample:4" Index="0">
+				<ImageRef ID="Image:4"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:5" Row="1">
+			<WellSample ID="WellSample:5" Index="0">
+				<ImageRef ID="Image:5"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:6" Row="1">
+			<WellSample ID="WellSample:6" Index="0">
+				<ImageRef ID="Image:6"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:7" Row="1">
+			<WellSample ID="WellSample:7" Index="0">
+				<ImageRef ID="Image:7"/>
+			</WellSample>
+		</Well>
+		<Well Column="0" ID="Well:8" Row="2">
+			<WellSample ID="WellSample:8" Index="0">
+				<ImageRef ID="Image:8"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:9" Row="2">
+			<WellSample ID="WellSample:9" Index="0">
+				<ImageRef ID="Image:9"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:10" Row="2">
+			<WellSample ID="WellSample:10" Index="0">
+				<ImageRef ID="Image:10"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:11" Row="2">
+			<WellSample ID="WellSample:11" Index="0">
+				<ImageRef ID="Image:11"/>
+			</WellSample>
+		</Well>
+		<Well Column="0" ID="Well:12" Row="3">
+			<WellSample ID="WellSample:12" Index="0">
+				<ImageRef ID="Image:12"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:13" Row="3">
+			<WellSample ID="WellSample:13" Index="0">
+				<ImageRef ID="Image:13"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:14" Row="3">
+			<WellSample ID="WellSample:14" Index="0">
+				<ImageRef ID="Image:14"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:15" Row="3">
+			<WellSample ID="WellSample:15" Index="0">
+				<ImageRef ID="Image:15"/>
+			</WellSample>
+		</Well>
+		<Well Column="0" ID="Well:16" Row="4">
+			<WellSample ID="WellSample:16" Index="0">
+				<ImageRef ID="Image:16"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:17" Row="4">
+			<WellSample ID="WellSample:17" Index="0">
+				<ImageRef ID="Image:17"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:18" Row="4">
+			<WellSample ID="WellSample:18" Index="0">
+				<ImageRef ID="Image:18"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:19" Row="4">
+			<WellSample ID="WellSample:19" Index="0">
+				<ImageRef ID="Image:19"/>
+			</WellSample>
+		</Well>
+		<Well Column="0" ID="Well:20" Row="5">
+			<WellSample ID="WellSample:20" Index="0">
+				<ImageRef ID="Image:20"/>
+			</WellSample>
+		</Well>
+		<Well Column="1" ID="Well:21" Row="5">
+			<WellSample ID="WellSample:21" Index="0">
+				<ImageRef ID="Image:21"/>
+			</WellSample>
+		</Well>
+		<Well Column="2" ID="Well:22" Row="5">
+			<WellSample ID="WellSample:22" Index="0">
+				<ImageRef ID="Image:22"/>
+			</WellSample>
+		</Well>
+		<Well Column="3" ID="Well:23" Row="5">
+			<WellSample ID="WellSample:23" Index="0">
+				<ImageRef ID="Image:23"/>
+			</WellSample>
+		</Well>
+	</Plate>
+	<Image ID="Image:0" Name="A01">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:0:0"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_0h.tiff">urn:uuid:89cc6e10-e2a8-4a64-ab76-809ec4680cfa</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_24h.tiff">urn:uuid:b34ad861-29e7-41f1-a50f-1744a225e46f</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_48h.tiff">urn:uuid:b3b57f7a-429b-461f-ad1d-8f71b95257a0</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_72h.tiff">urn:uuid:1b4cf1c2-e136-4987-bf91-8418e7979701</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A01_96h.tiff">urn:uuid:dbb77577-e3d2-49a8-a57a-fb0b12545f61</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:1" Name="B01">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:1:1"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_0h.tiff">urn:uuid:1f8f3a68-6228-4ca8-8b57-faf9941c0ea1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_24h.tiff">urn:uuid:82331497-b651-413c-8a02-16a9b0e10cb0</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_48h.tiff">urn:uuid:26dfdf48-3785-4230-9524-bcbb1d432388</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_72h.tiff">urn:uuid:2fc2e22f-5170-42c2-90cd-a7f1ba29365b</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B01_96h.tiff">urn:uuid:38173702-7021-43ba-a634-5b3d0a1bda86</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:2" Name="C01">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:2:2"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_0h.tiff">urn:uuid:9c9bf5a3-2459-43e0-98b2-b7b6da9d850e</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_24h.tiff">urn:uuid:0b64136a-54be-48e9-892d-1b860368a591</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_48h.tiff">urn:uuid:64174f83-6940-4737-a99d-26cc691b6423</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_72h.tiff">urn:uuid:0cb94c62-f97f-4b21-a029-70c0981916c1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C01_96h.tiff">urn:uuid:c1f003aa-c706-4642-b817-cb4dac0af170</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:3" Name="D01">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:3:3"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_0h.tiff">urn:uuid:415f175d-d8e3-4ce8-9d5e-1ac541edb707</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_24h.tiff">urn:uuid:6b86bab6-42f0-4ca1-aa5a-4af157fb626a</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_48h.tiff">urn:uuid:de537916-ab18-4022-90c1-1674a5cc1c6d</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_72h.tiff">urn:uuid:c1a46eb6-e25f-42cb-98f1-8af2426dc21c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D01_96h.tiff">urn:uuid:8d4c9075-983a-444d-9ccd-85a74a680345</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:4" Name="A02">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:4:4"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_0h.tiff">urn:uuid:1d34c943-8254-4129-8358-1280a870ad78</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_24h.tiff">urn:uuid:f0ff2b87-6112-4ff8-aef3-bbd2d09dffcb</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_48h.tiff">urn:uuid:a05a745f-0851-40ca-a474-e1b3c1bbc8ba</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_72h.tiff">urn:uuid:7407d0d9-c1c0-4cc8-9d1f-e17ac9b9c4f5</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A02_96h.tiff">urn:uuid:0e4d2bc4-a0f1-41f1-a424-e72150b4ff23</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:5" Name="B02">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:5:5"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_0h.tiff">urn:uuid:3785d053-212b-4c6a-8360-9ea38a64cf0d</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_24h.tiff">urn:uuid:42592f5e-2223-4cdb-9d33-f3e71b6e3138</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_48h.tiff">urn:uuid:80309c32-3b4f-422d-b6b7-005580c1db3c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_72h.tiff">urn:uuid:a772ccde-a150-466b-97a7-c432ecf8559d</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B02_96h.tiff">urn:uuid:3d5a2514-60b0-4dd9-b063-ffe1f591bfc9</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:6" Name="C02">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:6:6"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_0h.tiff">urn:uuid:0e8eba2b-b3bd-41ad-8a8c-101d2a90df0b</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_24h.tiff">urn:uuid:b6c5d302-34a3-44e3-80ff-f1b1744cf5ef</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_48h.tiff">urn:uuid:5652e819-a550-4196-ba38-b9d6216b44a5</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_72h.tiff">urn:uuid:f3af1868-584e-4819-b823-95d2ba14f210</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C02_96h.tiff">urn:uuid:aaa273ed-b93c-4841-b180-c320a6b87de0</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:7" Name="D02">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:7:7"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_0h.tiff">urn:uuid:52963cc5-9a77-46c5-a8a3-62fdd219a76b</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_24h.tiff">urn:uuid:937c7101-77ae-41e9-828d-fc635d25fb53</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_48h.tiff">urn:uuid:2a9081b7-8a6e-4fae-a191-ecaa0fb88527</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_72h.tiff">urn:uuid:0211efa2-0e74-46f2-86ec-6c7b1a37bf6e</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D02_96h.tiff">urn:uuid:46014f72-0e1b-48c4-b176-138819b83f23</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:8" Name="A03">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:8:8"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_0h.tiff">urn:uuid:7cbc70af-859c-42fd-ae67-73fc3eb09cdb</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_24h.tiff">urn:uuid:bb5d10d2-d96a-413e-91c9-ee64f90651c0</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_48h.tiff">urn:uuid:c3d740ba-95ba-440e-8a3f-3040dc9ebac0</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_72h.tiff">urn:uuid:a465139d-ba8b-49c9-a02b-40ec77b10aa5</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A03_96h.tiff">urn:uuid:45775eb1-5ec0-448a-9a17-acf93fb0b618</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:9" Name="B03">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:9:9"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_0h.tiff">urn:uuid:0ceca8ab-6839-4ceb-b1bc-d93cfb2cf1fe</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_24h.tiff">urn:uuid:990b9f05-5170-48e4-b2c3-f97c59dbec54</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_48h.tiff">urn:uuid:0cfabd89-32d3-4735-94b2-2932e121df01</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_72h.tiff">urn:uuid:f2580747-f312-4c50-9578-6302b4bf4c1a</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B03_96h.tiff">urn:uuid:920b0fa9-48b9-4865-83f7-dc2511dc9dea</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:10" Name="C03">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:10:10"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_0h.tiff">urn:uuid:36c0544e-369d-421e-a9e6-a978c7111d85</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_24h.tiff">urn:uuid:24650fe8-7a14-4b14-a6f8-de2e00c69847</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_48h.tiff">urn:uuid:e65faf1e-fc8d-47ac-9e06-79f2266f0be1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_72h.tiff">urn:uuid:e5541111-0d0e-4493-859f-f71cd870ec55</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C03_96h.tiff">urn:uuid:293ce7cd-9b15-4db5-b376-b7728f70f89b</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:11" Name="D03">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:11:11"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_0h.tiff">urn:uuid:9755cd69-203d-40bd-b392-650cd22b151c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_24h.tiff">urn:uuid:49db5ea6-2579-432c-92b6-61230589c736</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_48h.tiff">urn:uuid:01875c2a-8444-451a-b96b-6fc092bb3759</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_72h.tiff">urn:uuid:530bcc60-ad97-4c14-9ce1-59745bd39674</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D03_96h.tiff">urn:uuid:790ec47a-601d-405c-9118-42f16a12dbc7</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:12" Name="A04">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:12:12"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_0h.tiff">urn:uuid:e4743549-c9e9-456b-9dc9-c0dc952b2b82</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_24h.tiff">urn:uuid:aa062526-4fe6-4e7a-99a7-184d2b99766c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_48h.tiff">urn:uuid:817825e9-1f7a-42a6-9b0c-836349341180</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_72h.tiff">urn:uuid:479ad517-4710-4a6e-8b90-cb5071e84640</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A04_96h.tiff">urn:uuid:2e85c1b9-c77f-41fa-9829-f3e632d7d80d</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:13" Name="B04">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:13:13"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_0h.tiff">urn:uuid:63f88985-0546-4d3e-a256-23cfe12312d5</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_24h.tiff">urn:uuid:5a389a4c-0b2f-4b19-b798-8c742b7c5bc1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_48h.tiff">urn:uuid:2808cb27-4487-419d-b10e-ec38958cbed1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_72h.tiff">urn:uuid:42dc7645-135f-480e-b32b-b278abfd6495</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B04_96h.tiff">urn:uuid:eaa32e6d-9428-4a95-ac51-eaa8d0b0f4dc</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:14" Name="C04">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:14:14"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_0h.tiff">urn:uuid:26fb7cb6-f659-4e11-9933-5d2184709645</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_24h.tiff">urn:uuid:13161641-9e49-4bba-b2d6-d3064f5cc47a</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_48h.tiff">urn:uuid:aa1c2892-37b3-4d5f-8c82-0b4f060d86d3</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_72h.tiff">urn:uuid:063ce155-181e-4496-875b-9fe8e4e87050</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C04_96h.tiff">urn:uuid:024b53a4-56e6-4bd5-b43a-ca0467275aa7</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:15" Name="D04">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:15:15"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_0h.tiff">urn:uuid:83e9bf94-5a6f-48a4-9663-8243d50e9ca0</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_24h.tiff">urn:uuid:97f5af2d-c8f1-4f54-be21-3f856baa435c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_48h.tiff">urn:uuid:fc8b0720-61f6-483b-af37-4d608acd5499</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_72h.tiff">urn:uuid:919d3ecc-e257-46ed-a309-135f499b19c1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D04_96h.tiff">urn:uuid:75ae77f1-222d-4dae-8363-54b48fd85e22</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:16" Name="A05">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:16:16"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_0h.tiff">urn:uuid:70a7e432-b1e9-4e75-bde3-eb2b0b171382</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_24h.tiff">urn:uuid:daf8eca2-e148-409d-aa88-5422c1041f76</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_48h.tiff">urn:uuid:9756980d-80b7-4c8e-9309-6ecbd20c1e9c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_72h.tiff">urn:uuid:0ac224a6-6e6a-4313-b5ee-d4017160d121</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A05_96h.tiff">urn:uuid:187a4ca0-2bdb-4ec7-9cc7-547bdf73c04c</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:17" Name="B05">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:17:17"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_0h.tiff">urn:uuid:16d9d195-4554-4b9f-b133-f5caabff1769</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_24h.tiff">urn:uuid:de250e51-aef0-4868-bcbd-7da617ac7f84</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_48h.tiff">urn:uuid:9705c74e-021d-4a68-870f-0e8a8ce4a816</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_72h.tiff">urn:uuid:74882b23-0f8d-40c9-be24-94b5a3890c11</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B05_96h.tiff">urn:uuid:7737c2c6-f973-45dd-b642-345981bfedd2</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:18" Name="C05">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:18:18"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_0h.tiff">urn:uuid:360daeb6-7e11-465f-af79-18cbfe72434c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_24h.tiff">urn:uuid:3b6ad606-c2fa-4601-8e1c-3ad1fa9d34d9</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_48h.tiff">urn:uuid:f6c257ca-a0e1-4b42-9289-63bbea36c963</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_72h.tiff">urn:uuid:b9a9ba40-c2e6-4961-9582-bc7c271d5d9c</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C05_96h.tiff">urn:uuid:09acb383-b8b6-4285-8890-26c531d92440</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:19" Name="D05">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:19:19"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_0h.tiff">urn:uuid:c04bfc40-83c7-43c6-bc81-fb77a3a63926</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_24h.tiff">urn:uuid:316e630b-e0e3-492a-9b56-883c1dcc94d7</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_48h.tiff">urn:uuid:e95f525a-fb4c-4bb4-b61e-a01ce2359139</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_72h.tiff">urn:uuid:eee5bc55-7cb2-48e1-b519-f52e30595846</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D05_96h.tiff">urn:uuid:7b191817-ddc0-4d5a-8324-a70090dae3cf</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:20" Name="A06">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:20:20"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_0h.tiff">urn:uuid:841da827-56ad-4393-a169-bbaa6c771944</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_24h.tiff">urn:uuid:d66b70bb-87da-4bec-8a92-1ab77d09f832</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_48h.tiff">urn:uuid:7cb05146-b0d5-4089-b387-ff9e579cfa0f</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_72h.tiff">urn:uuid:cb75ecd3-76db-47f1-9fc1-7b0b1d71b25a</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_A06_96h.tiff">urn:uuid:aa647431-c4c2-4929-ab17-02e5f82387de</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:21" Name="B06">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:21:21"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_0h.tiff">urn:uuid:76c09fd7-d07f-40d6-829f-e22b3bd54c03</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_24h.tiff">urn:uuid:d4f2bc65-586d-4e1c-97a3-7608034e01b3</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_48h.tiff">urn:uuid:71feee41-640a-4c0e-a19f-8be4a371eb68</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_72h.tiff">urn:uuid:7b05c48d-e7b5-4558-beaf-ea5152d80b32</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_B06_96h.tiff">urn:uuid:ec0bcf62-8269-4f88-844f-6db6e70c3b6c</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:22" Name="C06">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:22:22"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_0h.tiff">urn:uuid:dfab4e34-d2a3-4a81-9da7-601616f8fc6a</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_24h.tiff">urn:uuid:f8e0f394-078f-4630-a6ab-acffe83037b7</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_48h.tiff">urn:uuid:60657cc4-6c4b-4281-b302-6a2a71f16deb</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_72h.tiff">urn:uuid:531c3c5a-d6bd-486c-9550-eef94dc09ca8</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_C06_96h.tiff">urn:uuid:74678d29-2595-476a-89a6-3a4958728140</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+	<Image ID="Image:23" Name="D06">
+		<Pixels DimensionOrder="XYZTC" ID="Pixels:23:23"  SizeT="5"    Type="uint16">
+			<TiffData FirstC="0" FirstT="0" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_0h.tiff">urn:uuid:1dbb3128-484f-4193-ba06-4d5782718a61</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_24h.tiff">urn:uuid:1697d361-9314-4e01-ad30-2199ef7aa7d1</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_48h.tiff">urn:uuid:461a519d-0219-47fc-a2e9-e9c348dcb230</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_72h.tiff">urn:uuid:34c62c31-12aa-41f3-8a0c-b6098bb05b02</UUID>
+			</TiffData>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0">
+				<UUID FileName="/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images/Plate1_D06_96h.tiff">urn:uuid:c639485d-f8d9-4dd2-a77a-9e032bb16813</UUID>
+			</TiffData>
+		</Pixels>
+	</Image>
+</OME>
