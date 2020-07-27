@@ -18,7 +18,7 @@ for plate_name in plates:
     plate = Plate(plate_name, len(rows), len(columns))
     for row_index, row in enumerate(rows):
         for column_index, column in enumerate(columns):
-            well = plate.add_well(row_index, column_index)
+            well = plate.add_well(row_index+1, column_index+1)
             test = "{}_{}{}_0h.tiff".format(plate_name, column, row)
             if test in filenames:
                 basename = "{}{}".format(column, row)
