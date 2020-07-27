@@ -1,0 +1,4 @@
+---
+target: "Screen:name:idr0092-ostrop-organoid/screenA"
+include: "../bulk.yml"
+path: "idr0092-screenA-plates.tsv"
