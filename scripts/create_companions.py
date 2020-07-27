@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 from ome_model.experimental import Plate, Image, create_companion
 
-path = "/uod/idr/filesets/idr0092-ostrop-organoid/20200722-ftp/images"
-
 filenames = []
 with open("idr0092.files") as fp:
     line = fp.readline()
@@ -18,13 +16,13 @@ for plate_name in plates:
     plate = Plate(plate_name, len(rows), len(columns))
     for row_index, row in enumerate(rows):
         for column_index, column in enumerate(columns):
-            well = plate.add_well(row_index+1, column_index+1)
+            well = plate.add_well(row_index, column_index)
             test = "{}_{}{}_0h.tiff".format(plate_name, column, row)
             if test in filenames:
                 basename = "{}{}".format(column, row)
-                image = Image(basename, 2080, 1552, 25, 0, len(timepoints))
+                image = Image(basename, 0, 0, 0, 0, len(timepoints))
                 for i, timepoint in enumerate(timepoints):
-                    filename = "{}/{}_{}{}_{}.tiff".format(path, plate_name, column, row, timepoint)
+                    filename = "{}_{}{}_{}.tiff".format(plate_name, column, row, timepoint)
                     image.add_tiff(filename, c=0, z=0, t=i)
                 well.add_wellsample(0, image)
     create_companion(plates=[plate], out="../companions/{}.companion.ome".format(plate_name))
