@@ -15,6 +15,7 @@ rows = ['A','B','C', 'D']
 timepoints = ['0h', '24h', '48h', '72h', '96h']
 print("Creating {}.companion.ome ...".format(plate_name))
 plate = Plate(plate_name, len(rows), len(columns))
+well_index = 0
 for row_index, row in enumerate(rows):
     for column_index, column in enumerate(columns):
         well = plate.add_well(row_index, column_index)
@@ -29,8 +30,7 @@ for row_index, row in enumerate(rows):
                 filename = "{}_{}{}_{}.tiff".format(plate_name, row, column, timepoint)
                 image.add_tiff(filename, c=0, z=0, t=i)
                 print("Add file {}".format(filename))
-            well.add_wellsample(0, image)
-            image = None
-        well = None
+            well.add_wellsample(well_index, image)
+            well_index += 1
 create_companion(plates=[plate], out="../companions/{}.companion.ome".format(plate_name))
 print("Done.")
