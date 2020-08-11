@@ -1,581 +1,605 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<OME Creator="ome_model/experimental.py" UUID="urn:uuid:1ab58a37-6b1b-474a-906f-bbe02c357eb4" xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
-	<Plate ID="Plate:0" Name="Plate3">
-		<Well Column="0" ID="Well:0" Row="0">
-			<WellSample ID="WellSample:0" Index="0">
-				<ImageRef ID="Image:0"/>
-			</WellSample>
-		</Well>
-		<Well Column="1" ID="Well:1" Row="0">
-			<WellSample ID="WellSample:1" Index="1">
-				<ImageRef ID="Image:1"/>
-			</WellSample>
-		</Well>
-		<Well Column="2" ID="Well:2" Row="0">
-			<WellSample ID="WellSample:2" Index="2">
-				<ImageRef ID="Image:2"/>
-			</WellSample>
-		</Well>
-		<Well Column="3" ID="Well:3" Row="0">
-			<WellSample ID="WellSample:3" Index="3">
-				<ImageRef ID="Image:3"/>
-			</WellSample>
-		</Well>
-		<Well Column="4" ID="Well:4" Row="0">
-			<WellSample ID="WellSample:4" Index="4">
-				<ImageRef ID="Image:4"/>
-			</WellSample>
-		</Well>
-		<Well Column="5" ID="Well:5" Row="0">
-			<WellSample ID="WellSample:5" Index="5">
-				<ImageRef ID="Image:5"/>
-			</WellSample>
-		</Well>
-		<Well Column="0" ID="Well:6" Row="1">
-			<WellSample ID="WellSample:6" Index="6">
-				<ImageRef ID="Image:6"/>
-			</WellSample>
-		</Well>
-		<Well Column="1" ID="Well:7" Row="1">
-			<WellSample ID="WellSample:7" Index="7">
-				<ImageRef ID="Image:7"/>
-			</WellSample>
-		</Well>
-		<Well Column="2" ID="Well:8" Row="1">
-			<WellSample ID="WellSample:8" Index="8">
-				<ImageRef ID="Image:8"/>
-			</WellSample>
-		</Well>
-		<Well Column="3" ID="Well:9" Row="1">
-			<WellSample ID="WellSample:9" Index="9">
-				<ImageRef ID="Image:9"/>
-			</WellSample>
-		</Well>
-		<Well Column="4" ID="Well:10" Row="1">
-			<WellSample ID="WellSample:10" Index="10">
-				<ImageRef ID="Image:10"/>
-			</WellSample>
-		</Well>
-		<Well Column="5" ID="Well:11" Row="1">
-			<WellSample ID="WellSample:11" Index="11">
-				<ImageRef ID="Image:11"/>
-			</WellSample>
-		</Well>
-		<Well Column="0" ID="Well:12" Row="2">
-			<WellSample ID="WellSample:12" Index="12">
-				<ImageRef ID="Image:12"/>
-			</WellSample>
-		</Well>
-		<Well Column="1" ID="Well:13" Row="2">
-			<WellSample ID="WellSample:13" Index="13">
-				<ImageRef ID="Image:13"/>
-			</WellSample>
-		</Well>
-		<Well Column="2" ID="Well:14" Row="2">
-			<WellSample ID="WellSample:14" Index="14">
-				<ImageRef ID="Image:14"/>
-			</WellSample>
-		</Well>
-		<Well Column="3" ID="Well:15" Row="2">
-			<WellSample ID="WellSample:15" Index="15">
-				<ImageRef ID="Image:15"/>
-			</WellSample>
-		</Well>
-		<Well Column="4" ID="Well:16" Row="2">
-			<WellSample ID="WellSample:16" Index="16">
-				<ImageRef ID="Image:16"/>
-			</WellSample>
-		</Well>
-		<Well Column="5" ID="Well:17" Row="2">
-			<WellSample ID="WellSample:17" Index="17">
-				<ImageRef ID="Image:17"/>
-			</WellSample>
-		</Well>
-		<Well Column="0" ID="Well:18" Row="3">
-			<WellSample ID="WellSample:18" Index="18">
-				<ImageRef ID="Image:18"/>
-			</WellSample>
-		</Well>
-		<Well Column="1" ID="Well:19" Row="3">
-			<WellSample ID="WellSample:19" Index="19">
-				<ImageRef ID="Image:19"/>
-			</WellSample>
-		</Well>
-		<Well Column="2" ID="Well:20" Row="3">
-			<WellSample ID="WellSample:20" Index="20">
-				<ImageRef ID="Image:20"/>
-			</WellSample>
-		</Well>
-		<Well Column="3" ID="Well:21" Row="3">
-			<WellSample ID="WellSample:21" Index="21">
-				<ImageRef ID="Image:21"/>
-			</WellSample>
-		</Well>
-		<Well Column="4" ID="Well:22" Row="3">
-			<WellSample ID="WellSample:22" Index="22">
-				<ImageRef ID="Image:22"/>
-			</WellSample>
-		</Well>
-		<Well Column="5" ID="Well:23" Row="3">
-			<WellSample ID="WellSample:23" Index="23">
-				<ImageRef ID="Image:23"/>
-			</WellSample>
-		</Well>
-	</Plate>
-	<Image ID="Image:0" Name="A01">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:0:0" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A01_0h.tiff">urn:uuid:d998fe52-51df-44be-89de-d86c17f08df0</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A01_24h.tiff">urn:uuid:d67a1c6a-ae85-4e4c-9802-5cb1d2327b43</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A01_48h.tiff">urn:uuid:99ef6abd-2ef5-4340-9067-599b5164a1a2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A01_72h.tiff">urn:uuid:8875926e-1287-40ed-9c42-351e8564b4ab</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A01_96h.tiff">urn:uuid:96063061-fc46-4a0e-9a17-6f0569ae9c4f</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:1" Name="A02">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:1:1" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A02_0h.tiff">urn:uuid:d01ad1b2-131f-4839-8eb9-0d30fb62d1b1</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A02_24h.tiff">urn:uuid:061ec1bf-46ef-4971-b250-ec56f8806673</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A02_48h.tiff">urn:uuid:d44ef6ef-d7a2-439d-8453-27e32865aa07</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A02_72h.tiff">urn:uuid:e83c8530-8a04-4f70-9741-81da5c58845c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A02_96h.tiff">urn:uuid:b7ae67ab-b6a9-45c7-86cf-061838bcb17d</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:2" Name="A03">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:2:2" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A03_0h.tiff">urn:uuid:50f0fc73-4fac-47ca-8127-fb508198d1f2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A03_24h.tiff">urn:uuid:9d964c08-7a89-40ad-bf05-51894b5ca357</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A03_48h.tiff">urn:uuid:f9e009a2-fb8c-4817-9cd9-74890205ccdb</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A03_72h.tiff">urn:uuid:c5a4cfef-9670-4ae3-8d24-7fa98fac7f91</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A03_96h.tiff">urn:uuid:3b296cfd-8f87-4e8a-9455-ab3187b0cf0c</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:3" Name="A04">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:3:3" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A04_0h.tiff">urn:uuid:6ad61808-adea-4a07-ad6f-b14d3b9472b2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A04_24h.tiff">urn:uuid:97e88509-0c4d-4d9b-8c4e-745e2882494e</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A04_48h.tiff">urn:uuid:74a93663-7c9f-479a-99f3-08654f32f6b7</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A04_72h.tiff">urn:uuid:1c86548d-e49b-4886-8e28-f401a8236936</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A04_96h.tiff">urn:uuid:950873f9-de34-424d-9cce-822f1ee25ebc</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:4" Name="A05">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:4:4" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A05_0h.tiff">urn:uuid:36c29dcf-39cd-47bd-aff8-d21e05a093da</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A05_24h.tiff">urn:uuid:bbfd24ca-746f-4895-938c-a07c201e2048</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A05_48h.tiff">urn:uuid:9ef5dc14-dc7a-4c83-87d5-c11b7bdaa767</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A05_72h.tiff">urn:uuid:ce3d48d7-cabb-4e5f-a678-9e8b2ee646ba</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A05_96h.tiff">urn:uuid:8745ba4a-89c7-4f23-99b6-0f0699ba93d2</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:5" Name="A06">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:5:5" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_A06_0h.tiff">urn:uuid:8fe35550-cb4a-44a4-9191-3b6d51fa4c2f</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_A06_24h.tiff">urn:uuid:e58f752f-4deb-47e7-a559-a6bf03dbd7ce</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_A06_48h.tiff">urn:uuid:93ffeda3-e676-4f5f-aef6-3cf65ea7858a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_A06_72h.tiff">urn:uuid:d044ee27-a6df-4b47-b4c3-8c546d39a81d</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_A06_96h.tiff">urn:uuid:681859f1-54a9-408a-ae84-a5b287c6ed76</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:6" Name="B01">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:6:6" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B01_0h.tiff">urn:uuid:c26be839-3adf-4ae8-85da-fbcc2b483014</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B01_24h.tiff">urn:uuid:18e756ab-fcad-43e1-b147-95a4b6065138</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B01_48h.tiff">urn:uuid:6090f961-04e6-4049-93be-ed1aeb1e618a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B01_72h.tiff">urn:uuid:91790434-20e2-48f3-b197-4592b0da5b54</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B01_96h.tiff">urn:uuid:fb69593d-ee1f-4c05-82e6-ecbf0b5c5eae</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:7" Name="B02">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:7:7" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B02_0h.tiff">urn:uuid:f0578110-e9fc-44aa-b839-676d6df71921</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B02_24h.tiff">urn:uuid:97e6b6c3-a36b-4893-8b42-e6fc3facce3e</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B02_48h.tiff">urn:uuid:bcdb5dca-46ff-4105-a461-ecc4952d1bb8</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B02_72h.tiff">urn:uuid:e00c33b0-a942-45dd-a887-1f7375ee8163</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B02_96h.tiff">urn:uuid:c54b8f26-e6fd-4382-8bca-7c0578efd52e</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:8" Name="B03">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:8:8" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B03_0h.tiff">urn:uuid:c2b7b1aa-3edb-4943-b2cd-d250a83da09a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B03_24h.tiff">urn:uuid:3de6abe0-c8c2-46a3-aad4-887121b8fff5</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B03_48h.tiff">urn:uuid:47093954-80f1-492c-b145-cb6c5ddf77c7</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B03_72h.tiff">urn:uuid:04d5e313-17e3-4dd3-8b84-84703c8e6064</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B03_96h.tiff">urn:uuid:12992a03-aa6c-404d-bf0e-de9d7bb0de7d</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:9" Name="B04">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:9:9" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B04_0h.tiff">urn:uuid:3e50d45f-dbff-4c08-8bd8-3cb283f5602c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B04_24h.tiff">urn:uuid:b8c34689-3a5f-4816-bf70-4feb372cd364</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B04_48h.tiff">urn:uuid:b9d33782-6a06-4486-8ffc-a3cfedd20a09</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B04_72h.tiff">urn:uuid:0c774cb2-66f0-4ff7-9301-baf0926731f1</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B04_96h.tiff">urn:uuid:dafc7980-c68f-4912-937c-efbf88e49767</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:10" Name="B05">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:10:10" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B05_0h.tiff">urn:uuid:337e6777-165f-4767-9760-c25f9c4b464b</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B05_24h.tiff">urn:uuid:3efad63b-d673-43f7-a228-4cc3a6855d2a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B05_48h.tiff">urn:uuid:f5edb5c8-7d7a-47eb-a8c8-36628d606b15</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B05_72h.tiff">urn:uuid:445a11cc-02c7-4676-815f-c173ed9aa724</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B05_96h.tiff">urn:uuid:b1c45abf-49a4-424f-bfaf-ac8177b3d678</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:11" Name="B06">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:11:11" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_B06_0h.tiff">urn:uuid:685bf942-6084-4cac-a34c-130220d9291b</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_B06_24h.tiff">urn:uuid:b8148421-4d0a-4667-b7b5-459b5e269a49</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_B06_48h.tiff">urn:uuid:659cb45a-ca00-4f16-b549-bdb27f8c1925</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_B06_72h.tiff">urn:uuid:f621229e-fb27-413e-b875-cdd31ccf5883</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_B06_96h.tiff">urn:uuid:0845f005-8391-49ae-a154-5591eede68f4</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:12" Name="C01">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:12:12" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C01_0h.tiff">urn:uuid:587e4df5-fead-4bf6-948e-fc99beb05e28</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C01_24h.tiff">urn:uuid:e5639e60-63b3-46ee-8de1-e7babb263312</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C01_48h.tiff">urn:uuid:39da201f-98b1-4207-ae15-0361f8d44350</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C01_72h.tiff">urn:uuid:5192a7d1-b2b4-4747-9640-91cc4fb271b3</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C01_96h.tiff">urn:uuid:40e64b4a-578f-4b53-8e85-4e79920100f2</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:13" Name="C02">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:13:13" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C02_0h.tiff">urn:uuid:44ee4e54-cb56-473a-a31d-b291fd72a6ee</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C02_24h.tiff">urn:uuid:d32d7302-470a-4d9a-b020-1d03315da995</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C02_48h.tiff">urn:uuid:fd099664-11b1-438a-8d8a-d29f6fc9ae17</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C02_72h.tiff">urn:uuid:2211cb21-b55b-4fdb-948c-99aadb4dcf18</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C02_96h.tiff">urn:uuid:387f2c8c-41f7-4e89-acc1-0beea373cc26</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:14" Name="C03">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:14:14" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C03_0h.tiff">urn:uuid:403d443a-c6ee-4c3d-a84f-9c7da50064c4</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C03_24h.tiff">urn:uuid:ff86de36-8252-44cd-87e6-60301ba6fd9d</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C03_48h.tiff">urn:uuid:88f10d67-b1d5-4b11-9880-1a3293f79a6a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C03_72h.tiff">urn:uuid:2cbc7298-8f4d-4053-b5a9-7bef23885585</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C03_96h.tiff">urn:uuid:55f082aa-4575-4f56-9672-79e1cabc3474</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:15" Name="C04">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:15:15" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C04_0h.tiff">urn:uuid:f1142588-4f38-43da-aa21-029e766cef0b</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C04_24h.tiff">urn:uuid:43760a80-09d2-4fcc-93cf-cc96876c5b3a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C04_48h.tiff">urn:uuid:174e2e51-10bf-4708-8fd0-d6a9e29b5273</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C04_72h.tiff">urn:uuid:d27f2bed-2331-4cbd-a144-66a11f5fdb60</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C04_96h.tiff">urn:uuid:4395acf0-b85f-49f3-bed1-db1cd61ad6a6</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:16" Name="C05">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:16:16" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C05_0h.tiff">urn:uuid:cb0437ed-9d65-4fdc-a1a0-342a03d45cf4</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C05_24h.tiff">urn:uuid:b404c5ea-5c81-4c52-be1a-9bd295054f45</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C05_48h.tiff">urn:uuid:a60a2958-9c99-4a45-b7d7-a4018dcb858d</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C05_72h.tiff">urn:uuid:f05ecf0a-86ad-4bef-a625-18b4a9379a00</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C05_96h.tiff">urn:uuid:2a95da3c-7659-4ee2-88d7-e3c0901a9a36</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:17" Name="C06">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:17:17" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_C06_0h.tiff">urn:uuid:d4cfee88-b4b7-47c7-9e21-c59aa89b4eca</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_C06_24h.tiff">urn:uuid:61a2aee7-fb95-4e03-b588-76019fbc2ab9</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_C06_48h.tiff">urn:uuid:7e957954-f460-4409-a612-7e042864986d</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_C06_72h.tiff">urn:uuid:ecac8021-cb45-4bfe-9130-f94e90212c30</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_C06_96h.tiff">urn:uuid:adce485b-6c99-4238-bd91-61e84a6c1e26</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:18" Name="D01">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:18:18" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D01_0h.tiff">urn:uuid:6499b767-8103-4bf6-a04a-f05f860e6d2f</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D01_24h.tiff">urn:uuid:f848edfb-69e2-444f-9deb-9e0655968351</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D01_48h.tiff">urn:uuid:041a88da-df19-43ef-98fd-a6c58ae926de</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D01_72h.tiff">urn:uuid:e4216fb0-4800-4873-9f40-6d7985101f71</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D01_96h.tiff">urn:uuid:36193085-3ee1-4ced-b010-b7e3e3f16977</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:19" Name="D02">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:19:19" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D02_0h.tiff">urn:uuid:b71cb62a-c4d2-4206-82a0-882ba26a3986</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D02_24h.tiff">urn:uuid:b0f5fc07-da35-44c7-9b29-fa8e60f1689e</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D02_48h.tiff">urn:uuid:08c67a3c-aee8-419a-9af7-a4d20eb35cd2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D02_72h.tiff">urn:uuid:81e58d0e-4f09-4f95-90f3-9a94fbbdbce2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D02_96h.tiff">urn:uuid:c389e35f-d9c4-4278-bc25-2d1894b4f18f</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:20" Name="D03">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:20:20" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D03_0h.tiff">urn:uuid:0576a516-ddf5-4be6-888e-3196c8c4a27c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D03_24h.tiff">urn:uuid:a1428fc1-909f-4cae-85d2-0ff2ba58cc66</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D03_48h.tiff">urn:uuid:61f5ba5a-c9cc-430d-93c7-ec2baf93de7e</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D03_72h.tiff">urn:uuid:175e0576-df31-4c95-8724-491d1f63b889</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D03_96h.tiff">urn:uuid:565bcdcd-1c09-43aa-a43d-60101245bd02</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:21" Name="D04">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:21:21" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D04_0h.tiff">urn:uuid:a7c91c6d-edc0-4fc3-8af6-0011f8d7c7c6</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D04_24h.tiff">urn:uuid:a3bc4a4f-ab0d-4806-ab84-a4226e4dd03c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D04_48h.tiff">urn:uuid:8e747c7c-2a55-44de-914c-a0b657a887c2</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D04_72h.tiff">urn:uuid:8ec6e0ee-4ea0-4b50-a008-52dce1262028</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D04_96h.tiff">urn:uuid:c32ca6a0-7465-4fe6-a5d6-8c8dbab4cd89</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:22" Name="D05">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:22:22" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D05_0h.tiff">urn:uuid:cf5a5ef1-cbc5-40f1-bfcc-44e7d4a07fb6</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D05_24h.tiff">urn:uuid:a00905ff-194e-40bf-8041-1152e527413c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D05_48h.tiff">urn:uuid:2b6a45f7-f40a-4dab-b5c6-6906cba8f87c</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D05_72h.tiff">urn:uuid:e428f2c6-6c64-435f-afbc-1f11ec64f7c3</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D05_96h.tiff">urn:uuid:823044c1-19aa-48e6-9292-dbacbd2ffd85</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
-	<Image ID="Image:23" Name="D06">
-		<Pixels DimensionOrder="XYZTC" ID="Pixels:23:23" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint16">
-			<TiffData FirstC="0" FirstT="0" FirstZ="0">
-				<UUID FileName="Plate3_D06_0h.tiff">urn:uuid:6974ef64-7c99-421f-866b-3edc0bd1508a</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="1" FirstZ="0">
-				<UUID FileName="Plate3_D06_24h.tiff">urn:uuid:4bf11354-ceef-4886-96c5-458619192d9f</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="2" FirstZ="0">
-				<UUID FileName="Plate3_D06_48h.tiff">urn:uuid:83d210e3-229a-494e-9de8-7cbe5e205749</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="3" FirstZ="0">
-				<UUID FileName="Plate3_D06_72h.tiff">urn:uuid:63bac33a-8ce2-4957-9308-4616dcf46688</UUID>
-			</TiffData>
-			<TiffData FirstC="0" FirstT="4" FirstZ="0">
-				<UUID FileName="Plate3_D06_96h.tiff">urn:uuid:7508a1d5-f86c-4f2f-b7e4-b5070b7a7fba</UUID>
-			</TiffData>
-		</Pixels>
-	</Image>
+<?xml version="1.0" encoding="UTF-8"?>
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Creator="ome_model/experimental.py" UUID="urn:uuid:4de8a672-247b-42b6-920e-b16e0a119af8" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+  <Plate ID="Plate:0" Name="Plate3">
+    <Well Column="0" ID="Well:0" Row="0">
+      <WellSample ID="WellSample:0" Index="0">
+        <ImageRef ID="Image:0"/>
+      </WellSample>
+    </Well>
+    <Well Column="1" ID="Well:1" Row="0">
+      <WellSample ID="WellSample:1" Index="1">
+        <ImageRef ID="Image:1"/>
+      </WellSample>
+    </Well>
+    <Well Column="2" ID="Well:2" Row="0">
+      <WellSample ID="WellSample:2" Index="2">
+        <ImageRef ID="Image:2"/>
+      </WellSample>
+    </Well>
+    <Well Column="3" ID="Well:3" Row="0">
+      <WellSample ID="WellSample:3" Index="3">
+        <ImageRef ID="Image:3"/>
+      </WellSample>
+    </Well>
+    <Well Column="4" ID="Well:4" Row="0">
+      <WellSample ID="WellSample:4" Index="4">
+        <ImageRef ID="Image:4"/>
+      </WellSample>
+    </Well>
+    <Well Column="5" ID="Well:5" Row="0">
+      <WellSample ID="WellSample:5" Index="5">
+        <ImageRef ID="Image:5"/>
+      </WellSample>
+    </Well>
+    <Well Column="0" ID="Well:6" Row="1">
+      <WellSample ID="WellSample:6" Index="6">
+        <ImageRef ID="Image:6"/>
+      </WellSample>
+    </Well>
+    <Well Column="1" ID="Well:7" Row="1">
+      <WellSample ID="WellSample:7" Index="7">
+        <ImageRef ID="Image:7"/>
+      </WellSample>
+    </Well>
+    <Well Column="2" ID="Well:8" Row="1">
+      <WellSample ID="WellSample:8" Index="8">
+        <ImageRef ID="Image:8"/>
+      </WellSample>
+    </Well>
+    <Well Column="3" ID="Well:9" Row="1">
+      <WellSample ID="WellSample:9" Index="9">
+        <ImageRef ID="Image:9"/>
+      </WellSample>
+    </Well>
+    <Well Column="4" ID="Well:10" Row="1">
+      <WellSample ID="WellSample:10" Index="10">
+        <ImageRef ID="Image:10"/>
+      </WellSample>
+    </Well>
+    <Well Column="5" ID="Well:11" Row="1">
+      <WellSample ID="WellSample:11" Index="11">
+        <ImageRef ID="Image:11"/>
+      </WellSample>
+    </Well>
+    <Well Column="0" ID="Well:12" Row="2">
+      <WellSample ID="WellSample:12" Index="12">
+        <ImageRef ID="Image:12"/>
+      </WellSample>
+    </Well>
+    <Well Column="1" ID="Well:13" Row="2">
+      <WellSample ID="WellSample:13" Index="13">
+        <ImageRef ID="Image:13"/>
+      </WellSample>
+    </Well>
+    <Well Column="2" ID="Well:14" Row="2">
+      <WellSample ID="WellSample:14" Index="14">
+        <ImageRef ID="Image:14"/>
+      </WellSample>
+    </Well>
+    <Well Column="3" ID="Well:15" Row="2">
+      <WellSample ID="WellSample:15" Index="15">
+        <ImageRef ID="Image:15"/>
+      </WellSample>
+    </Well>
+    <Well Column="4" ID="Well:16" Row="2">
+      <WellSample ID="WellSample:16" Index="16">
+        <ImageRef ID="Image:16"/>
+      </WellSample>
+    </Well>
+    <Well Column="5" ID="Well:17" Row="2">
+      <WellSample ID="WellSample:17" Index="17">
+        <ImageRef ID="Image:17"/>
+      </WellSample>
+    </Well>
+    <Well Column="0" ID="Well:18" Row="3">
+      <WellSample ID="WellSample:18" Index="18">
+        <ImageRef ID="Image:18"/>
+      </WellSample>
+    </Well>
+    <Well Column="1" ID="Well:19" Row="3">
+      <WellSample ID="WellSample:19" Index="19">
+        <ImageRef ID="Image:19"/>
+      </WellSample>
+    </Well>
+    <Well Column="2" ID="Well:20" Row="3">
+      <WellSample ID="WellSample:20" Index="20">
+        <ImageRef ID="Image:20"/>
+      </WellSample>
+    </Well>
+    <Well Column="3" ID="Well:21" Row="3">
+      <WellSample ID="WellSample:21" Index="21">
+        <ImageRef ID="Image:21"/>
+      </WellSample>
+    </Well>
+    <Well Column="4" ID="Well:22" Row="3">
+      <WellSample ID="WellSample:22" Index="22">
+        <ImageRef ID="Image:22"/>
+      </WellSample>
+    </Well>
+    <Well Column="5" ID="Well:23" Row="3">
+      <WellSample ID="WellSample:23" Index="23">
+        <ImageRef ID="Image:23"/>
+      </WellSample>
+    </Well>
+  </Plate>
+  <Image ID="Image:0" Name="A01">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:0:0" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:0" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A01_0h.tiff">urn:uuid:7b3811d3-e6fd-4d04-9f8f-4a4cd0b72533</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A01_24h.tiff">urn:uuid:2ddd7a3b-8432-4d82-bf78-2a11e598cfb0</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A01_48h.tiff">urn:uuid:df406809-1865-4035-9733-4c14275fbd81</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A01_72h.tiff">urn:uuid:7dedbc8b-a59b-4ef1-b990-319a2dac69f8</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A01_96h.tiff">urn:uuid:978d745d-2633-4601-8119-f6e2e9901175</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:1" Name="A02">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:1:1" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:1" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A02_0h.tiff">urn:uuid:1493b885-53a2-4f6b-bdf1-760cc5d11346</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A02_24h.tiff">urn:uuid:4a5f7568-7ca0-4b6b-938d-f61955a325cf</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A02_48h.tiff">urn:uuid:45704020-0f86-4e8a-9958-1ab447fb7e63</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A02_72h.tiff">urn:uuid:4d5f06f6-aa3c-45d8-b050-6c48e0e52b5c</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A02_96h.tiff">urn:uuid:22c9e355-2238-4126-9ccc-e1b70a30e610</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:2" Name="A03">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:2:2" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:2" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A03_0h.tiff">urn:uuid:a8eac916-2da5-4db7-8b7f-d0c11f524f7b</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A03_24h.tiff">urn:uuid:8fa2cb7c-55da-4569-9200-e76a398ae845</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A03_48h.tiff">urn:uuid:40e4ac86-c2f4-48f0-b6d5-6a6db5eccdff</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A03_72h.tiff">urn:uuid:23bdb4ec-2cdb-4a0b-ae30-baf8a92a547d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A03_96h.tiff">urn:uuid:00c19324-03b6-4354-9d49-e9ca4e76c588</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:3" Name="A04">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:3:3" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:3" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A04_0h.tiff">urn:uuid:64f671db-9318-436b-b2fd-8b8df6e961c3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A04_24h.tiff">urn:uuid:8f680cef-c36e-482c-8a6a-0bdcb850c241</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A04_48h.tiff">urn:uuid:96bdd283-c486-4f64-b98f-e7ae4f0f51e8</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A04_72h.tiff">urn:uuid:4eb24565-f592-4358-ac51-7f30a573561d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A04_96h.tiff">urn:uuid:52011252-247d-449f-bdc4-8da2f410b379</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:4" Name="A05">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:4:4" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:4" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A05_0h.tiff">urn:uuid:6501d709-171d-499c-af55-22abf33f0668</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A05_24h.tiff">urn:uuid:2762d344-3dc3-444d-89ee-e113bc82ee6e</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A05_48h.tiff">urn:uuid:2801b12f-ce02-4f0e-bc21-5d13b4ae24df</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A05_72h.tiff">urn:uuid:492d458e-863a-41e0-91c5-fcc4388a1cf8</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A05_96h.tiff">urn:uuid:8630f7fa-628e-4705-9051-ef01028b6578</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:5" Name="A06">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:5:5" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:5" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A06_0h.tiff">urn:uuid:e98f3b60-90dc-45fe-b38f-c13f13b899a1</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A06_24h.tiff">urn:uuid:16d3f2f3-abef-498e-8446-918c1d47fb89</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A06_48h.tiff">urn:uuid:02e6ea4c-a60d-442a-9b46-fc861c0f3af9</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A06_72h.tiff">urn:uuid:69687197-225b-4281-9c99-9c60773d60a3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_A06_96h.tiff">urn:uuid:6e721cda-235d-4b85-bd62-85fc49d7314f</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:6" Name="B01">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:6:6" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:6" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B01_0h.tiff">urn:uuid:f1e17df9-653c-403f-ac45-1ac8e6bdec29</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B01_24h.tiff">urn:uuid:f9575a95-eec7-49bd-b8f8-50331ff798d4</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B01_48h.tiff">urn:uuid:51fbbca3-aa5d-4191-86a1-2d3d062d69fc</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B01_72h.tiff">urn:uuid:370910b5-e59d-4994-9f58-edb44cbd999f</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B01_96h.tiff">urn:uuid:834f12af-f884-4c7a-be21-8742d6281a52</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:7" Name="B02">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:7:7" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:7" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B02_0h.tiff">urn:uuid:fb536e52-66db-446c-a3ff-2ddbdb4e9225</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B02_24h.tiff">urn:uuid:41aa8e0f-3aa4-45e2-8f3a-00b957314ee4</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B02_48h.tiff">urn:uuid:9bf51701-fc42-45c4-8a23-4e28b3a820f3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B02_72h.tiff">urn:uuid:c52640b2-a584-4c3a-b8fe-6059130d52dd</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B02_96h.tiff">urn:uuid:8875c606-6a3d-47ea-89e0-b3e52041dcfb</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:8" Name="B03">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:8:8" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:8" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B03_0h.tiff">urn:uuid:a452047b-f65d-4e06-bf2d-8fcf8b01fdce</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B03_24h.tiff">urn:uuid:b69d06a6-ea2b-40e1-9a1f-aec97f51ec8d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B03_48h.tiff">urn:uuid:33f95e41-13be-4fd2-8a1b-13ff26349844</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B03_72h.tiff">urn:uuid:6ebb0193-6c44-4b51-9832-de352c3228e9</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B03_96h.tiff">urn:uuid:bb16c2c9-c397-41ea-b24a-25dccc5d9a97</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:9" Name="B04">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:9:9" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:9" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B04_0h.tiff">urn:uuid:bcae64f7-0fbc-48cb-8d3e-0d18046e687d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B04_24h.tiff">urn:uuid:49ac0a4e-4bb1-43d2-8426-0f7c2088a392</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B04_48h.tiff">urn:uuid:fedd2d6d-759e-401e-a616-698d44598f69</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B04_72h.tiff">urn:uuid:3a09f111-bb17-429d-a16b-922d8f71033f</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B04_96h.tiff">urn:uuid:6957df09-b202-478b-8dff-75640ea23e28</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:10" Name="B05">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:10:10" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:10" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B05_0h.tiff">urn:uuid:d709cc4c-ffa1-45eb-b231-cd0fdbe7c928</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B05_24h.tiff">urn:uuid:d9fb1c08-2b8f-4e50-a032-5ecf90f78ef6</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B05_48h.tiff">urn:uuid:b9d8f74f-201c-4b60-b5c2-7ef93fd65bcb</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B05_72h.tiff">urn:uuid:1fa8c8b3-21fc-4a32-9d52-8c52e26e34ac</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B05_96h.tiff">urn:uuid:411245e2-24a7-4b90-8bec-d275a814be15</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:11" Name="B06">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:11:11" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:11" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B06_0h.tiff">urn:uuid:fa0d8593-12a7-429f-b09e-be8594fab8d1</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B06_24h.tiff">urn:uuid:7e46c288-9c7f-4fbb-bb51-c4ba741908bd</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B06_48h.tiff">urn:uuid:6bb55cdf-2f3b-49d5-a356-9b2dd5d2219e</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B06_72h.tiff">urn:uuid:4de4ab21-27bc-4e32-8875-6aebdc76e5a0</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_B06_96h.tiff">urn:uuid:ae90cdd3-73eb-4982-97f1-108206f32508</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:12" Name="C01">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:12:12" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:12" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C01_0h.tiff">urn:uuid:90eff144-417b-4d22-9e12-baf6d5320f1d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C01_24h.tiff">urn:uuid:6f4f1562-ab07-45a4-b8be-3e420cb93691</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C01_48h.tiff">urn:uuid:563a0160-15ae-4f93-83df-e862371a0ec3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C01_72h.tiff">urn:uuid:605eea7c-99f1-4d24-9f65-01a2c88857e6</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C01_96h.tiff">urn:uuid:cdd3b6c1-aa73-45ad-bb5e-f9ab6949bdac</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:13" Name="C02">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:13:13" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:13" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C02_0h.tiff">urn:uuid:d85571c7-2d47-4c29-8f76-7bf53c7fe9d8</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C02_24h.tiff">urn:uuid:a79945e7-875b-4b3f-91bb-9d22171664d1</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C02_48h.tiff">urn:uuid:9f2e8697-73ad-489a-8a34-28eb9dd6e826</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C02_72h.tiff">urn:uuid:ddb36685-0681-44cb-a44b-8989fceda5a3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C02_96h.tiff">urn:uuid:cd867567-3ced-4895-ad48-9bd2fb145cec</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:14" Name="C03">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:14:14" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:14" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C03_0h.tiff">urn:uuid:187c5775-09a3-4229-bf3d-272367e39983</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C03_24h.tiff">urn:uuid:3bc8d62d-79ff-4c52-9bf3-0943b8976ef7</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C03_48h.tiff">urn:uuid:14788ca7-f715-42e3-ba10-8fc3d18eb7ba</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C03_72h.tiff">urn:uuid:ad1a88f4-83c1-4d13-a63f-31214c82551f</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C03_96h.tiff">urn:uuid:609442fc-a1b5-440f-8d86-ea1a7aef66f3</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:15" Name="C04">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:15:15" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:15" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C04_0h.tiff">urn:uuid:bd035d0a-a3fe-492b-b636-193b799a1bb4</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C04_24h.tiff">urn:uuid:c38a9c16-1e1a-49ab-a027-550231543a51</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C04_48h.tiff">urn:uuid:2204f6d5-b53c-4008-b9c3-3ac726620e93</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C04_72h.tiff">urn:uuid:d8ef2831-a6ab-4b32-afdf-71c326f2aae9</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C04_96h.tiff">urn:uuid:a7573288-577d-47c0-be6f-f7bf74e47797</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:16" Name="C05">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:16:16" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:16" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C05_0h.tiff">urn:uuid:62ba4c1c-12b6-4626-9bb2-6a6a27a90d32</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C05_24h.tiff">urn:uuid:eded4318-b913-4493-9a9e-3d99ff086153</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C05_48h.tiff">urn:uuid:03ee3171-042a-4d7b-aab4-614721b91f22</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C05_72h.tiff">urn:uuid:d4559351-4696-4102-adb6-40c4785bc997</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C05_96h.tiff">urn:uuid:db103f6f-65b0-4131-9d20-0b8015c4dd9b</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:17" Name="C06">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:17:17" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:17" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C06_0h.tiff">urn:uuid:2543ac42-1f5f-41ad-b52d-479341013fc2</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C06_24h.tiff">urn:uuid:ae62f742-bae7-46bb-8be2-be0e56c0689a</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C06_48h.tiff">urn:uuid:b747abd0-03fd-458f-8e49-bbefb0109a57</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C06_72h.tiff">urn:uuid:24d63c90-65f5-4183-a453-080977919bf3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_C06_96h.tiff">urn:uuid:6a423a6a-f1d0-44a6-82b6-563a0dd32b80</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:18" Name="D01">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:18:18" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:18" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D01_0h.tiff">urn:uuid:46d1b56d-aaaa-44c9-9f66-240357ebde0d</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D01_24h.tiff">urn:uuid:e52a2c32-3108-4a26-acd7-4037a4548bbd</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D01_48h.tiff">urn:uuid:774b3ed8-517f-44d3-b560-25864e1b1da1</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D01_72h.tiff">urn:uuid:44928819-9544-4045-a616-da61e2732b5a</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D01_96h.tiff">urn:uuid:1bedea36-f875-4e2b-b864-e14155e274e6</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:19" Name="D02">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:19:19" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:19" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D02_0h.tiff">urn:uuid:d7cf79e1-6867-461b-87ff-3106b6f1ba98</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D02_24h.tiff">urn:uuid:3c401e75-889f-4196-849b-45f522fc6786</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D02_48h.tiff">urn:uuid:90a5a537-12bc-4b33-9413-28dd2574c29b</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D02_72h.tiff">urn:uuid:3fe06177-6d00-4c88-a5db-3e8e409d8057</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D02_96h.tiff">urn:uuid:94dff889-9ed6-40c7-a569-2e0aaa38e2ec</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:20" Name="D03">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:20:20" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:20" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D03_0h.tiff">urn:uuid:f09b8481-d063-4c81-9320-fba00fcad9e7</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D03_24h.tiff">urn:uuid:13a97866-71f9-4d5f-8d2a-7ada7b65e2bf</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D03_48h.tiff">urn:uuid:3fec586a-175c-470b-99b8-2727966a3857</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D03_72h.tiff">urn:uuid:14497ddf-23ee-4079-a934-390bbf0479b3</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D03_96h.tiff">urn:uuid:e8497141-cee9-4a36-afe3-a2a16465a4dc</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:21" Name="D04">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:21:21" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:21" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D04_0h.tiff">urn:uuid:4bb74a17-b324-4e90-9da0-7f3f10e6b3eb</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D04_24h.tiff">urn:uuid:af6be6ee-21c1-4615-bae3-00a711067672</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D04_48h.tiff">urn:uuid:7c22ca70-538b-4acf-b660-e0360d862bfe</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D04_72h.tiff">urn:uuid:3343cec3-0181-49fb-8215-74039e930742</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D04_96h.tiff">urn:uuid:ef2c69a8-24c3-4552-9f81-ce370a6e6695</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:22" Name="D05">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:22:22" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:22" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D05_0h.tiff">urn:uuid:f9f621a1-9c45-4d5b-b431-8dd101717ebf</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D05_24h.tiff">urn:uuid:dd17ffc6-596c-4775-afc0-abb2b479803a</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D05_48h.tiff">urn:uuid:c542b3ab-cc77-46b0-9c51-9a994a497aee</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D05_72h.tiff">urn:uuid:7e1dd8a1-e5cd-4009-b12f-cf356eb0a797</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D05_96h.tiff">urn:uuid:e3e40bb9-962e-4a0a-87f1-685cf5822fd7</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
+  <Image ID="Image:23" Name="D06">
+    <Pixels DimensionOrder="XYZTC" ID="Pixels:23:23" SizeC="3" SizeT="5" SizeX="2080" SizeY="1552" SizeZ="25" Type="uint8">
+      <Channel Color="-1" ID="Channel:23" Name="" SamplesPerPixel="3"/>
+      <TiffData FirstC="0" FirstT="0" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D06_0h.tiff">urn:uuid:16604f51-a0b2-44f1-9a46-e5b5bf9b194b</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="1" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D06_24h.tiff">urn:uuid:eb9d6509-41c7-4868-b1f2-fe4529580a16</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="2" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D06_48h.tiff">urn:uuid:ca3eabd1-01ee-44e7-b3ea-a37b87e69a59</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="3" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D06_72h.tiff">urn:uuid:25bb797c-fa4a-4507-afeb-7344e6f1f22e</UUID>
+      </TiffData>
+      <TiffData FirstC="0" FirstT="4" FirstZ="0" PlaneCount="25">
+        <UUID FileName="Plate3_D06_96h.tiff">urn:uuid:e3479a3b-abd0-46e6-af4a-8008d1d19cfb</UUID>
+      </TiffData>
+    </Pixels>
+  </Image>
 </OME>
