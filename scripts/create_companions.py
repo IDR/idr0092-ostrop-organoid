@@ -25,7 +25,7 @@ for row_index, row in enumerate(rows):
             basename = "{}{}".format(row, column)
             image = Image(basename, 2080, 1552, 25, 3, len(timepoints),
                           order="XYZTC", type="uint8")
-            image.add_channel("", -1, samplesPerPixel=3)
+            image.add_channel(samplesPerPixel=3)
             for i, timepoint in enumerate(timepoints):
                 filename = "{}_{}{}_{}.tiff".format(plate_name, row, column, timepoint)
                 image.add_tiff(filename, c=0, z=0, t=i, planeCount=25)
