@@ -22,13 +22,12 @@ for row_index, row in enumerate(rows):
         test = "{}_{}{}_0h.tiff".format(plate_name, row, column)
         if test in filenames:
             basename = "{}{}".format(row, column)
-            # have to set c=0 otherwise validate will fail;
-            # manually replace SizeC="0" with SizeC="3"
-            # in the generated companion files afterwards!
-            image = Image(basename, 2080, 1552, 25, 0, len(timepoints))
+            image = Image(basename, 2080, 1552, 25, 3, len(timepoints),
+                          order="XYZTC", type="uint8")
+            image.add_channel("", -1, samplesPerPixel=3)
             for i, timepoint in enumerate(timepoints):
                 filename = "{}_{}{}_{}.tiff".format(plate_name, row, column, timepoint)
-                image.add_tiff(filename, c=0, z=0, t=i)
+                image.add_tiff(filename, c=0, z=0, t=i, planeCount=25)
                 print("Add file {}".format(filename))
             well.add_wellsample(well_index, image)
             well_index += 1
