@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
 from ome_model.experimental import Plate, Image, create_companion
+import subprocess
 
 filenames = []
 with open("idr0092.files") as fp:
@@ -31,5 +32,14 @@ for row_index, row in enumerate(rows):
                 print("Add file {}".format(filename))
             well.add_wellsample(well_index, image)
             well_index += 1
-create_companion(plates=[plate], out="../companions/{}.companion.ome".format(plate_name))
+companion_file = "../companions/{}.companion.ome".format(plate_name)
+create_companion(plates=[plate], out=companion_file)
+
+# Indent XML for readability
+proc = subprocess.Popen(
+    ['xmllint', '--format', '-o', companion_file, companion_file],
+    stdin=subprocess.PIPE,
+    stdout=subprocess.PIPE)
+(output, error_output) = proc.communicate()
+
 print("Done.")
