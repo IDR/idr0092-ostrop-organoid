@@ -29,7 +29,12 @@ for row_index, row in enumerate(rows):
             for i, timepoint in enumerate(timepoints):
                 filename = "{}_{}{}_{}.tiff".format(plate_name, row, column, timepoint)
                 image.add_tiff(filename, c=0, z=0, t=i, planeCount=25)
-                print("Add file {}".format(filename))
+                options = {
+                    'DeltaT': timepoint[:-1],
+                    'DeltaTUnit': 'h',
+                }
+                for z in range(25):
+                    image.add_plane(c=0, z=z, t=i, options=options)
             well.add_wellsample(well_index, image)
             well_index += 1
 companion_file = "../companions/{}.companion.ome".format(plate_name)
