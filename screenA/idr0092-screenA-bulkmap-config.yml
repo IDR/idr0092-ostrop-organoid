@@ -1,0 +1,116 @@
+---
+name: idr0092-ostrop-organoid/screenA
+version: 1
+
+defaults:
+  include: false
+  type: string
+  includeclient: true
+  visible: true
+  omitempty: true
+
+columns:
+
+  - name: Characteristics [Strain]
+    clientname: Strain
+    include: true
+
+  - name: Characteristics [Tissue]
+    clientname: Tissue
+    include: true
+
+  - name: Characteristics [Individual]
+    clientname: Individual
+    include: true
+
+  - name: Characteristics [Technical Replicate]
+    clientname: Technical Replicate
+    include: true
+
+  - name: Control Type
+    clientname: Control Type
+    include: true
+
+  - name: Channels
+    clientname: Channels
+    include: true
+
+  - name: Comment [Image Comment]
+    clientname: Image Comment
+    include: true
+
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: true
+
+  - group:
+      namespace: openmicroscopy.org/mapr/compound
+      columns:
+        - name: Compound Name
+          clientname: Compound Name
+          include: true
+        - name: Compound Name
+          clientname: Compound Name URL
+          clientvalue: >
+            https://www.ncbi.nlm.nih.gov/pccompound?term={{ value|urlencode }}
+          include: true
+
+  - group:
+      namespace: openmicroscopy.org/mapr/compound/supplementary
+      columns:
+        - name: Compound Concentration (microMolar)
+          clientname: Concentration (microMolar)
+          include: true
+        - name: Compound Based Treatment
+          clientname: Based Treatment
+          include: true
+        - name: Compound PubChem CID
+          clientname: PubChem CID
+          include: true
+        - name: Compound ChEBI
+          clientname: ChEBI
+          include: true
+        - name: Compound ChEMBL
+          clientname: ChEMBL
+          include: true
+        - name: Compound SMILES
+          clientname: SMILES
+          include: true
+        - name: Compound InChI
+          clientname: InChI
+          include: true
+        - name: Compound InChIKey
+          clientname: InChIKey
+          include: true
+        - name: Compound Secondary Name
+          clientname: Secondary Name
+          include: true
+        - name: Compound Selectivity
+          clientname: Selectivity
+          include: true
+        - name: Compound Selectivity Synonym
+          clientname: Selectivity Synonym
+          include: true
+        - name: Compound Class
+          clientname: Class
+          include: true
+
+
+advanced:
+  well_to_images: true
+  ignore_missing_primary_key: true
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
+    - namespace: openmicroscopy.org/mapr/compound
+      keys:
+        - Compound Name
