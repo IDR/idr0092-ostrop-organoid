@@ -15,7 +15,7 @@ Study Screens Number	1
 Study External URL	
 
 Study BioImage Archive Accession																		
-Study Public Release Date																				
+Study Public Release Date	2020-09-03																				
 
 # Study Publication												
 Study Publication Title	A semi-automated intestinal organoid screening method demonstrates epigenetic control of epithelial maturation	
