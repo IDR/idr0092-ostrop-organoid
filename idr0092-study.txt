@@ -17,7 +17,10 @@ Study External URL
 Study BioImage Archive Accession																		
 Study Public Release Date	2020-09-03																				
 
-# Study Publication												
+# Study Publication		
+
+Study PubMed ID
+										
 Study Publication Title	A semi-automated intestinal organoid screening method demonstrates epigenetic control of epithelial maturation	
 
 Study Author List	Ostrop J, Zwiggelaar R, Terndrup Pedersen M, Gerbe F, Bosl K, Lindholm HT, Dıez-Sanchez A, Parmar N, Radetzki S, von Kries JP, Jay P, Jensen KB, Arrowsmith C, Oudhoff MJ
