@@ -36,7 +36,7 @@ Study Person Address	CEMIR – Centre of Molecular Inflammation Research, Depart
 Study Person ORCID	0000-0003-2752-8377	0000-0003-0498-4273	0000-0002-4971-3250	0000-0002-1180-8975									
 Study Person Roles	investigator, data analyst, experiment performer, software development	data analyst, data curator, submitter	material supplier role, institution	investigator, institution																												
 # Study License and Data DOI												
-Study License	CC-BY 4.0											
+Study License	CC BY 4.0											
 Study License URL	https://creativecommons.org/licenses/by/4.0/											
 Study Copyright	Ostrop et al											
 Study Data Publisher	University of Dundee											
