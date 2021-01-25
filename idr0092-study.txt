@@ -2,11 +2,12 @@
 # STUDY DESCRIPTION SECTION											
 # Section with generic information about the study including title, description, publication details (if applicable) and contact details															
 Comment[IDR Study Accession]	idr0092											
-Study Title	A semi-automated intestinal organoid screening method demonstrates epigenetic control of epithelial maturation										
+Study Title	A semi-automated organoid screening method demonstrates epigenetic control of intestinal epithelial differentiation										
 Study Type	compound library screen											
 Study Type Term Source REF	EFO										
 Study Type Term Accession	EFO_0007553											
-Study Description	The intestinal epithelium maintains an important barrier throughout life. It consists of several epithelial cell lineages that are derived from LGR5+ intestinal stem cells. Although epigenetic regulation of embryonic stem cell differentiation is well established, its role in adult stem cell systems such as the intestinal epithelium is still undefined. Yet, targeting of epigenetic regulatory enzymes may be relevant for new therapeutics, for example in cancer treatment. Here, we combine a newly established organoid toolbox with an epigenetic probe library to identify epigenetic regulators of intestinal epithelial biology. We discover several probes that alter intestinal epithelial biology including those targeting HDACs, EP300/CREBBP, LSD1, and PRMT1. We conclude that epigenetic modifiers are primarily involved in mediating maturation of epithelium rather than dictating specific cell lineage differentiation. Furthermore, we show that inhibiting type I PRMTs, which leads to epithelial maturation, blocks the growth of adenoma but not normal organoid cultures. Thus, epigenetic probes are a powerful tool in defining biological processes and demonstrate therapeutic potential.										
+Study Description	Intestinal organoids are an excellent model to study epithelial biology. Yet, the selection of analytical tools to accurately quantify heterogeneous organoid cultures remains limited. Here, we developed a semi-automated organoid screening method, which we applied to a library of highly specific chemical probes to identify epigenetic regulators of intestinal epithelial biology. The role of epigenetic modifiers in adult stem cell systems, such as the intestinal epithelium, is still undefined. Based on this resource dataset, we identified several targets that affected epithelial cell differentiation, including HDACs, EP300/CREBBP, LSD1, and type I PRMTs, which were verified by complementary methods. For example, we show that inhibiting type I PRMTs, which leads enhanced epithelial differentiation, blocks the growth of adenoma but not normal organoid cultures. Thus, epigenetic probes are powerful tools to study intestinal epithelial biology and may have therapeutic potential.
+									
 Study Key Words	Organoids	Intestinal epithelium	Adult stem cells	Epigenetic modifiers	Library screen	Bioimage quantification	EP300	PRMT1											
 Study Organism	Mus musculus											
 Study Organism Term Source REF	NCBITaxon											
@@ -21,12 +22,12 @@ Study Public Release Date	2020-09-03
 
 Study PubMed ID
 										
-Study Publication Title	A semi-automated intestinal organoid screening method demonstrates epigenetic control of epithelial maturation	
+Study Publication Title	A semi-automated organoid screening method demonstrates epigenetic control of intestinal epithelial differentiation	
 
 Study Author List	Ostrop J, Zwiggelaar R, Terndrup Pedersen M, Gerbe F, Bosl K, Lindholm HT, Dıez-Sanchez A, Parmar N, Radetzki S, von Kries JP, Jay P, Jensen KB, Arrowsmith C, Oudhoff MJ
 
 Study PMC ID																					
-Study DOI								
+Study DOI	https://doi.org/10.3389/fcell.2020.618552							
 																			
 # Study Contacts											
 Study Person Last Name	Ostrop	Bösl	Arrowsmith	Oudhoff								
